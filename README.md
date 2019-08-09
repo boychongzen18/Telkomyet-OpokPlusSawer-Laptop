@@ -8,14 +8,14 @@
 
 # Operator Telkomsel
 
-# Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via PdaNet )
+Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via PdaNet )
 ![be](https://raw.githubusercontent.com/boychongzen18/Telkomyet-OpokPlusSawer-Laptop/master/Pdanet.jpg)
 
 Link Tutorial PdaNet For Android : https://github.com/boychongzen18/Pdanet-For-Andoid
 
-# Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via Tetring )
+Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via Tetring )
 ![be](https://raw.githubusercontent.com/boychongzen18/Telkomyet-OpokPlusSawer-Laptop/master/Tettring.jpg)
-# Tampilan Conneting Via Youtube
+Tampilan Conneting Via Youtube
 ![be](https://raw.githubusercontent.com/boychongzen18/Telkomyet-OpokPlusSawer-Laptop/master/yt.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
