@@ -13,6 +13,8 @@ Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via PdaNet )
 
 Link Tutorial PdaNet For Android : https://github.com/boychongzen18/Pdanet-For-Andoid
 
+Link Download Psiphon3 Laptop-PC : https://psiphon.ca/id/download.html
+
 Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via Tetring )
 ![be](https://raw.githubusercontent.com/boychongzen18/Telkomyet-OpokPlusSawer-Laptop/master/Tettring.jpg)
 Tampilan Conneting Via Youtube
