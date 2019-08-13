@@ -8,6 +8,9 @@
 
 # Operator Telkomsel
 
+Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via Modem Jaringan 3G )
+![be](https://raw.githubusercontent.com/boychongzen18/Telkomyet-OpokPlusSawer-Laptop/master/modem.jpg)
+
 Tampilan Psiphon3 & SVL Injector v.4.5 ( Akses via PdaNet )
 ![be](https://raw.githubusercontent.com/boychongzen18/Telkomyet-OpokPlusSawer-Laptop/master/Pdanet.jpg)
 
